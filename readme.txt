@@ -1,8 +1,12 @@
 /*
-* @authors : ABDELLAH TAHRI SQALLI - HASSAN EL-MZABI.
+* @authors :  HASSAN EL-MZABI.
 * @Classe  : MQL 2019
 *
 */
+
+overview: this projet is simple example of using JaxRS in Java .. and composer in PHP 
+
+
 
 server side : 
 -------------
