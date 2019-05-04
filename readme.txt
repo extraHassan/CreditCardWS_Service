@@ -4,7 +4,7 @@
 *
 */
 
-overview: this projet is simple example of using JaxRS in Java .. and composer in PHP 
+`overview:` this projet is a simple example of using JaxRS in Java .. and composer in PHP 
 
 
 
