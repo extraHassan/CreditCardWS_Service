@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+
+    <persistence-unit name="creditCard" transaction-type="JTA">
+        <description> Hibernate JPA Configuration Example</description>
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <jta-data-source>java:/GO</jta-data-source>
+        <class>org.mql.creditws.models.CreditCard</class>
+        <class>org.mql.creditws.models.User</class>
+        <properties>
+            <property name="hibernate.show_sql" value="true" />
+            <property name="hibernate.hbm2ddl.auto" value="create" />
+        </properties>
+    </persistence-unit>
+
+</persistence>

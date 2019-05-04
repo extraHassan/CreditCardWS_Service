@@ -1,0 +1,9 @@
+org\mql\creditws\resources\CreditCardResource.class
+org\mql\creditws\models\CreditCard.class
+org\mql\creditws\service\CreditCardService.class
+org\mql\creditws\dao\CardDaoImpl.class
+org\mql\creditws\service\UserService.class
+org\mql\creditws\utils\JSONFormatter.class
+org\mql\creditws\models\User.class
+org\mql\creditws\JAXRSConfiugration.class
+org\mql\creditws\dao\CardDao.class
